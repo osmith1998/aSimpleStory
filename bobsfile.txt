@@ -1,3 +1,7 @@
 Bob's first commit
 
+
 Alice is dumb
+
+Bob is smart
+
